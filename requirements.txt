@@ -1,0 +1,4 @@
+opencv-python
+pygame
+pyttsx3
+ultralytics
